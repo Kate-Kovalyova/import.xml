@@ -1,0 +1,240 @@
+<Products>
+  <Product>
+    <ID>OIBHVH-11</ID>
+    <Name>Herhaling course</Name>
+    <Description>
+      <![CDATA[
+            <div class="domino-par--indent" style="padding-left: 0pt"><font size="2" face="Verdana">EXIN Agile Scrum Foundation is een certificering die de kennis over Agile methodes, gecombineerd met de kennis over de Scrum praktijk, erkent. Agile Scrum richt zich op het behalen van het doel door succesvol samen te werken. Agile methodes zijn populair bij software ontwikkeling en worden steeds vaker gebruikt in andere werkvelden. De Scrum manier van werken houdt in het samenstellen van een multidisciplinair team dat zichzelf organiseert en dat aan het eind van een sprint een werkend product oplevert. EXIN Agile Scrum Foundation maakt onderdeel uit van het Certified Integrator programma en is één van de voorvereisten voor de volgende titels: </font>
+                <p><font size="2" face="Verdana">• EXIN Certified Integrator Agile Service Projects</font></p>
+            </div>
+        ]]>
+    </Description>
+    <Agenda/>
+    <!--
+      TrainingType options: classroom_training, elearning, blended_learning, home_study, virtual_classroom, webinar, workshop, coaching, exam, other 
+    -->
+    <TrainingType>classroom_training</TrainingType>
+    <TargetEducationalLevel>MBO</TargetEducationalLevel>
+    <Language>nl</Language>
+    <TrainingPriceExVAT>179.00</TrainingPriceExVAT>
+    <VATPercentage>21</VATPercentage>
+    <Certificate>NIKTA</Certificate>
+    <QualityMarks>
+      <QualityMark>
+        <Name>CEDEO</Name>
+      </QualityMark>
+    </QualityMarks>
+    <AdditionalCosts/>
+    <Trainers/>
+    <Category>Arbo &amp; Veiligheid</Category>
+    <SubCategory>BHV</SubCategory>
+    <Duration>1</Duration>
+    <DurationUnit>days</DurationUnit>
+    <WebAddress/>
+    <PdfBrochure/>
+    <ScheduleType>scheduled</ScheduleType>
+
+    <Discounts>
+      <Discount>
+        <CompanyID>3</CompanyID>
+        <Price>150.50</Price>
+      </Discount>
+    </Discounts>
+
+    <RequiredUserFields>
+      <Field>gender</Field>
+      <Field>phone_number</Field>
+      <Field>company_role</Field>
+    </RequiredUserFields>
+
+    <EducationalPoints>
+      <EducationalPoint>
+        <Points>10</Points>
+        <OrganizationShortName>HOK</OrganizationShortName>
+      </EducationalPoint>
+    </EducationalPoints>
+
+    <LiveSessions>
+      <LiveSession>
+        <ID>bhvnl-4946</ID>
+        <Location>
+          WICC Hotel &amp; Congress Centre, Lawickse Allee 9, 6701 AN, Wageningen
+        </Location>
+        <LiveSessionClosed>true</LiveSessionClosed>
+        <LiveSessionDates>
+          <LiveSessionDate>
+            <StartDate>2019-05-22</StartDate>
+            <StartTime>09:00</StartTime>
+            <EndTime>12:30</EndTime>
+          </LiveSessionDate>
+          <LiveSessionDate>
+            <StartDate>2019-05-22</StartDate>
+            <StartTime>13:00</StartTime>
+            <EndTime>16:30</EndTime>
+          </LiveSessionDate>
+        </LiveSessionDates>
+      </LiveSession>
+    </LiveSessions>
+  </Product>
+    
+  <Product>
+    <ID>OIBHVH-12</ID>
+    <Name>Herhaling course 2</Name>
+    <Description>
+        <![CDATA[
+            <div class="domino-par--indent" style="padding-left: 0pt"><font size="2" face="Verdana">EXIN Agile Scrum Foundation is een certificering die de kennis over Agile methodes, gecombineerd met de kennis over de Scrum praktijk, erkent. Agile Scrum richt zich op het behalen van het doel door succesvol samen te werken. Agile methodes zijn populair bij software ontwikkeling en worden steeds vaker gebruikt in andere werkvelden. De Scrum manier van werken houdt in het samenstellen van een multidisciplinair team dat zichzelf organiseert en dat aan het eind van een sprint een werkend product oplevert. EXIN Agile Scrum Foundation maakt onderdeel uit van het Certified Integrator programma en is één van de voorvereisten voor de volgende titels: </font>
+                <p><font size="2" face="Verdana">• EXIN Certified Integrator Agile Service Projects</font></p>
+            </div>
+        ]]>
+    </Description>
+    <Agenda/>
+    <!--
+      TrainingType options: classroom_training, elearning, blended_learning, home_study, virtual_classroom, webinar, workshop, coaching, exam, other 
+    -->
+    <TrainingType>webinar</TrainingType>
+    <TargetEducationalLevel>MBO</TargetEducationalLevel>
+    <Language>nl</Language>
+    <TrainingPriceExVAT>179.00</TrainingPriceExVAT>
+    <VATPercentage>21</VATPercentage>
+    <Certificate>NIKTA</Certificate>
+    <QualityMarks>
+      <QualityMark>
+        <Name>CEDEO</Name>
+      </QualityMark>
+    </QualityMarks>
+    <AdditionalCosts/>
+    <Trainers/>
+    <Category>Arbo &amp; Veiligheid</Category>
+    <SubCategory>BHV</SubCategory>
+    <Duration>1</Duration>
+    <DurationUnit>days</DurationUnit>
+    <WebAddress/>
+    <PdfBrochure/>
+    <ScheduleType>scheduled</ScheduleType>
+
+    <Discounts>
+      <Discount>
+        <CompanyID>3</CompanyID>
+        <Price>150.50</Price>
+      </Discount>
+    </Discounts>
+
+    <RequiredUserFields>
+      <Field>gender</Field>
+      <Field>phone_number</Field>
+      <Field>company_role</Field>
+    </RequiredUserFields>
+
+    <EducationalPoints>
+      <EducationalPoint>
+        <Points>10</Points>
+        <OrganizationShortName>HOK</OrganizationShortName>
+      </EducationalPoint>
+    </EducationalPoints>
+
+    <LiveSessions>
+      <LiveSession>
+        <ID>bhvnl-4948</ID>
+        <Location>
+          WICC Hotel &amp; Congress Centre, Lawickse Allee 9, 6701 AN, Wageningen
+        </Location>
+        <LiveSessionClosed>true</LiveSessionClosed>
+        <LiveSessionDates>
+          <LiveSessionDate>
+            <StartDate>2019-07-09</StartDate>
+            <StartTime>09:00</StartTime>
+            <EndTime>12:30</EndTime>
+          </LiveSessionDate>
+          <LiveSessionDate>
+            <StartDate>2019-07-09</StartDate>
+            <StartTime>13:00</StartTime>
+            <EndTime>16:30</EndTime>
+          </LiveSessionDate>
+          <LiveSessionDate>
+            <StartDate>2019-07-09</StartDate>
+            <StartTime>09:00</StartTime>
+            <EndTime>12:30</EndTime>
+          </LiveSessionDate>
+        </LiveSessionDates>
+      </LiveSession>
+    </LiveSessions>
+  </Product>
+
+  <Product>
+    <ID>OIBHVH-15</ID>
+    <Name>Herhaling course 3</Name>
+    <Description>
+        <![CDATA[
+            <div class="domino-par--indent" style="padding-left: 0pt"><font size="2" face="Verdana">EXIN Agile Scrum Foundation is een certificering die de kennis over Agile methodes, gecombineerd met de kennis over de Scrum praktijk, erkent. Agile Scrum richt zich op het behalen van het doel door succesvol samen te werken. Agile methodes zijn populair bij software ontwikkeling en worden steeds vaker gebruikt in andere werkvelden. De Scrum manier van werken houdt in het samenstellen van een multidisciplinair team dat zichzelf organiseert en dat aan het eind van een sprint een werkend product oplevert. EXIN Agile Scrum Foundation maakt onderdeel uit van het Certified Integrator programma en is één van de voorvereisten voor de volgende titels: </font>
+                <p><font size="2" face="Verdana">• EXIN Certified Integrator Agile Service Projects</font></p>
+            </div>
+        ]]>
+    </Description>
+    <Agenda/>
+    <!--
+      TrainingType options: classroom_training, elearning, blended_learning, home_study, virtual_classroom, webinar, workshop, coaching, exam, other 
+    -->
+    <TrainingType>workshop</TrainingType>
+    <TargetEducationalLevel>MBO</TargetEducationalLevel>
+    <Language>nl</Language>
+    <TrainingPriceExVAT>179.00</TrainingPriceExVAT>
+    <VATPercentage>21</VATPercentage>
+    <Certificate>NIKTA</Certificate>
+    <QualityMarks>
+      <QualityMark>
+        <Name>CEDEO</Name>
+      </QualityMark>
+    </QualityMarks>
+    <AdditionalCosts/>
+    <Trainers/>
+    <Category>Arbo &amp; Veiligheid</Category>
+    <SubCategory>BHV</SubCategory>
+    <Duration>1</Duration>
+    <DurationUnit>days</DurationUnit>
+    <WebAddress/>
+    <PdfBrochure/>
+    <ScheduleType>scheduled</ScheduleType>
+
+    <Discounts>
+      <Discount>
+        <CompanyID>3</CompanyID>
+        <Price>150.50</Price>
+      </Discount>
+    </Discounts>
+
+    <RequiredUserFields>
+      <Field>gender</Field>
+      <Field>phone_number</Field>
+      <Field>company_role</Field>
+    </RequiredUserFields>
+
+    <EducationalPoints>
+      <EducationalPoint>
+        <Points>10</Points>
+        <OrganizationShortName>HOK</OrganizationShortName>
+      </EducationalPoint>
+    </EducationalPoints>
+
+    <LiveSessions>
+      <LiveSession>
+        <ID>bhvnl-4951</ID>
+        <Location>
+          WICC Hotel &amp; Congress Centre, Lawickse Allee 9, 6701 AN, Wageningen
+        </Location>
+        <LiveSessionClosed>true</LiveSessionClosed>
+        <LiveSessionDates>
+          <LiveSessionDate>
+            <StartDate>2019-09-19</StartDate>
+            <StartTime>09:00</StartTime>
+            <EndTime>12:30</EndTime>
+          </LiveSessionDate>
+          <LiveSessionDate>
+            <StartDate>2019-09-19</StartDate>
+            <StartTime>13:00</StartTime>
+            <EndTime>16:30</EndTime>
+          </LiveSessionDate>
+        </LiveSessionDates>
+      </LiveSession>
+    </LiveSessions>
+  </Product>
+</Products>
